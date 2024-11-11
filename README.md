@@ -1,4 +1,4 @@
-# Hello, I'm Emmanuel A
+# Hello, I'm Emmanuel 
 <a href="https://linkedin.com](https://www.linkedin.com/in/emmanuel-ajisafe/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
