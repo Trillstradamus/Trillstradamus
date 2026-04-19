@@ -2,7 +2,7 @@
 <a href="https://linkedin.com](https://www.linkedin.com/in/emmanuel-ajisafe/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am an aspiring Cyber Security professional with a minor in Fraud Financial Crime Investigation. I have a great interest in computer and cyber technology. Usage and proficiency with computer/network forensic tools and techniques, scripts, reconnaissance tools and techniques as well as many other concepts present in the world of cyber security and forensics. Knowledge with specific cyber software, tools and techniques like FTK, Snort, Virtual machines, password cracking, Vulnerability assessment, Wireshark and much more. I am always in the pursuit to increase my level of expertise with various Cybersecurity tools and practices. #Purple Team fanatic
+Accomplished IT professional with hands-on experience in cybersecurity, computer forensics, incident response and threat mitigation. Adept at threat hunting, penetration testing, and security auditing, with a strong foundation in industry frameworks. Skilled in leveraging offensive and defensive security strategies to fortify enterprise infrastructures against cyber threats. Passionate about advancing security measures in dynamic environments. Committed to continuous learning and innovation in cloud security, network defense, and digital forensics, incident response, etc.  #Purple Team fanatic
 
 ## Objective
 
