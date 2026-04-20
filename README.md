@@ -1,6 +1,6 @@
 # Hello, I'm Emmanuel 
-<a href="https://linkedin.com](https://www.linkedin.com/in/emmanuel-ajisafe/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
+<!-- <a href="https://linkedin.com](https://www.linkedin.com/in/emmanuel-ajisafe/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
+<a href="https://www.linkedin.com/in/emmanuel-ajisafe/"> <img src="https://img.shields.io/badge/-LinkedIn-0072B1?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
 Accomplished IT professional with hands-on experience in cybersecurity, computer forensics, incident response and threat mitigation. Adept at threat hunting, penetration testing, and security auditing, with a strong foundation in industry frameworks. Skilled in leveraging offensive and defensive security strategies to fortify enterprise infrastructures against cyber threats. Passionate about advancing security measures in dynamic environments. Committed to continuous learning and innovation in cloud security, network defense, and digital forensics, incident response, etc.  #Purple Team fanatic
 
