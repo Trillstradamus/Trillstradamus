@@ -17,7 +17,7 @@ My journey in cybersecurity has led me to develop a passion for it, and I am now
 | Password Cracking/Guessing         | <a href="https://www.credly.com/badges/2d4bed20-a32e-423a-9951-c5258592ab37/linked_in?t=slipqd">Hydra & Hashcat Labs</a>|
 | Web Application Security      | <a href="https://www.credly.com/badges/2d4bed20-a32e-423a-9951-c5258592ab37/linked_in?t=slipqd"> XSS SQL and Command Injection Labs</a>|
 | Scripting and Automation for Threat Mitigation | <a href="https://www.credly.com/badges/2d4bed20-a32e-423a-9951-c5258592ab37/linked_in?t=slipqd">PowerShell Labs</a>|
-
+| Forensics and Investigation | <a href="https://github.com/Trillstradamus/Digital-Forensics-Lab">Digital Forensics Lab</a>|
 ## Tools
 
 ### Network
